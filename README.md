@@ -1,6 +1,6 @@
 # face-recognition-app-frontend
 
-Frontend of the machine learning face recognition app made with React that you can see here: https://machine-learning-recognition.herokuapp.com/
+Frontend of the machine learning face recognition app made with React that you can see here: https://face-recognition-frontend-url.onrender.com/
 
 You need to take the URL of a photo and the program will identify and indicate where the face is located.
 
